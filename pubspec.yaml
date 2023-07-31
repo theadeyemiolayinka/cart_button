@@ -1,0 +1,22 @@
+name: cart_button
+description: A fully customizable Flutter widget to manage cart state for a product.
+version: 1.0.0
+homepage:
+repository: https://github.com/theadeyemiolayinka/cart_button/
+screenshots: 
+  - description: 'cart button'
+    path: screenshots/preview.png
+
+environment:
+  sdk: ">=2.14.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+  flutter_lints: ^2.0.1
+flutter:
